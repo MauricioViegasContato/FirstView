@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 60" fill="none">
+  <!-- BRB Stylized Geometric Blocks -->
+  <g transform="translate(10, 15)">
+    <!-- Blue/Silver geometric ribbon shapes -->
+    <rect x="0" y="0" width="10" height="30" rx="3" fill="white"/>
+    <path d="M14 0 L26 0 C32 0 35 4 35 9 C35 13 32 16 26 16 L14 16 Z" fill="white"/>
+    <path d="M14 15 L28 15 C34 15 37 19 37 24 C37 29 34 30 28 30 L14 30 Z" fill="white"/>
+  </g>
+  <text x="60" y="38" font-family="'Arial Black', sans-serif" font-size="24" font-weight="900" letter-spacing="4" fill="white">
+    BRB
+  </text>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 60" fill="none">
+  <!-- Minimalist Metrópoles Stylized M + Typography -->
+  <g transform="translate(10, 12)">
+    <!-- Red/White characteristic news M block -->
+    <path d="M0 0 L10 0 L18 20 L26 0 L36 0 L36 36 L26 36 L26 15 L18 32 L10 15 L10 36 L0 36 Z" fill="white"/>
+  </g>
+  <text x="58" y="38" font-family="'Arial Black', 'Impact', sans-serif" font-size="20" font-weight="900" letter-spacing="3" fill="white">
+    METRÓPOLES
+  </text>
+</svg>

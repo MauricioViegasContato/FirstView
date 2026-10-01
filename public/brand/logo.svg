@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 100" fill="none">
+  <!-- Símbolo FV em Vermelho Oficial #FF3823 -->
+  <g transform="translate(10, 10)">
+    <!-- Moldura Quadrada Externa com abertura no canto inferior direito -->
+    <path
+      d="M0 0 H80 V36 H68 V12 H12 V68 H68 V60 H80 V80 H0 V0 Z"
+      fill="#FF3823"
+    />
+    <!-- Letra F estilizada com chanfro 45 graus -->
+    <path
+      d="M16 18 L26 8 H60 V18 H32 L26 24 V34 H48 V44 H26 V62 H16 V18 Z"
+      fill="#FF3823"
+    />
+    <!-- Letra V estilizada interligada -->
+    <path
+      d="M50 26 H64 V40 L52 62 H40 L50 40 V26 Z"
+      fill="#FF3823"
+    />
+  </g>
+
+  <!-- Tipografia Oficial "first view" em Branco -->
+  <!-- "first" -->
+  <text x="110" y="44" font-family="'Arial Black', 'Impact', sans-serif" font-size="32" font-weight="900" letter-spacing="1" fill="#FFFFFF">
+    first
+  </text>
+  <text x="195" y="28" font-family="'Arial', sans-serif" font-size="10" font-weight="700" fill="#FF3823">
+    TM
+  </text>
+
+  <!-- "view" -->
+  <text x="110" y="78" font-family="'Arial Black', 'Impact', sans-serif" font-size="32" font-weight="900" letter-spacing="1" fill="#FFFFFF">
+    view
+  </text>
+
+  <!-- Barra azul e detalhe Brasília -->
+  <rect x="205" y="66" width="3" height="12" fill="#0066FF" />
+  <text x="214" y="76" font-family="'Helvetica Neue', 'Arial', sans-serif" font-size="10" font-weight="800" letter-spacing="3" fill="#0066FF">
+    FILMS
+  </text>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" fill="none">
+  <rect width="200" height="60" rx="8" fill="transparent"/>
+  <!-- BYD Oval outline -->
+  <ellipse cx="60" cy="30" rx="42" ry="22" stroke="white" stroke-width="3" fill="none"/>
+  <!-- BYD Letters -->
+  <text x="60" y="38" font-family="'Helvetica Neue', 'Arial', sans-serif" font-size="22" font-weight="900" letter-spacing="2" fill="white" text-anchor="middle">
+    BYD
+  </text>
+  <!-- DENZA Subtitle -->
+  <text x="145" y="36" font-family="'Helvetica Neue', 'Arial', sans-serif" font-size="16" font-weight="700" letter-spacing="4" fill="white" text-anchor="middle">
+    DENZA
+  </text>
+</svg>

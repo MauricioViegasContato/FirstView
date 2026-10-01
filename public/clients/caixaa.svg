@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 190 60" fill="none">
+  <!-- Caixa characteristic X icon -->
+  <g transform="translate(10, 16)">
+    <path d="M0 4 L8 4 L24 24 L16 24 Z" fill="white"/>
+    <path d="M16 4 L24 4 L8 24 L0 24 Z" fill="white"/>
+  </g>
+  <text x="44" y="37" font-family="'Arial Black', sans-serif" font-size="22" font-weight="900" letter-spacing="1" fill="white">
+    CAIXA
+  </text>
+</svg>
